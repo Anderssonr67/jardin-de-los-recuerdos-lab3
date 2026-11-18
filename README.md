@@ -2,6 +2,11 @@
 
 Un jardín digital para guardar momentos importantes como flores. Cada recuerdo tiene una categoría, una fecha y una emoción; puedes crearlo, buscarlo, editarlo o eliminarlo.
 
+## Enlaces públicos
+
+- Sitio desplegado: https://el-jardin-de-los-recuerdos.vercel.app
+- Repositorio: https://github.com/Anderssonr67/jardin-de-los-recuerdos-lab3
+
 ## Funcionalidades
 
 - CRUD de recuerdos con SQLite mediante SQL.js.
